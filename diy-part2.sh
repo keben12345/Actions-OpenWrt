@@ -12,3 +12,9 @@
 
 # Modify default IP
   sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
+rm -rf package/helloworld
+git clone --depth=1 https://github.com/fw876/helloworld.git package/helloworld
+# rm -rf package/passwall
+# git clone https://github.com/xiaorouji/openwrt-passwall package/passwall
+rm -rf package/bypass
+git clone https://github.com/kiddin9/openwrt-bypass.git package/bypass

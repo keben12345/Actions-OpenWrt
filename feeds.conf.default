@@ -9,4 +9,4 @@ src-git oui https://github.com/zhaojh329/oui.git
 #src-link custom /usr/src/openwrt/custom-feed
 #src-git helloworld https://github.com/fw876/helloworld.git
 #src-git bypass https://github.com/kiddin9/openwrt-bypass.git
-src-git trojan-plus https://github.com/Trojan-Plus-Group/trojan-plus.git
+#src-git trojan-plus https://github.com/Trojan-Plus-Group/trojan-plus.git

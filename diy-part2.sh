@@ -20,3 +20,5 @@ git clone --depth=1 https://github.com/fw876/helloworld.git package/helloworld
 # git clone https://github.com/xiaorouji/openwrt-passwall package/passwall
 rm -rf package/bypass
 git clone https://github.com/kiddin9/openwrt-bypass.git package/bypass
+rm -rf package/trojan-plus
+git clone https://github.com/Trojan-Plus-Group/trojan-plus.git package/trojan-plus

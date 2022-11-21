@@ -8,5 +8,5 @@ src-git other https://github.com/Lienol/openwrt-package.git;other
 # src-git trojan-plus https://github.com/Trojan-Plus-Group/trojan-plus.git
 src-git bypass https://github.com/kiddin9/openwrt-bypass.git
 src-git helloworld https://github.com/fw876/helloworld
-#src-git small https://github.com/kenzok8/small
+src-git small https://github.com/kenzok8/small
 #src-git kenzo https://github.com/kenzok8/openwrt-packages

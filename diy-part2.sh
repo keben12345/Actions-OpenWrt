@@ -21,6 +21,6 @@ sed -i 's/192.168.1.1/192.168.1.1/g' package/base-files/files/bin/config_generat
 #rm -rf package/bypass
 #git clone https://github.com/kiddin9/openwrt-bypass.git package/bypass
 rm -rf lua-maxminddb
-git clone https://github.com/jerrykuku/lua-maxminddb.git
+# git clone https://github.com/jerrykuku/lua-maxminddb.git
 rm -rf luci-app-vssr
-git clone https://github.com/jerrykuku/luci-app-vssr.git
+# git clone https://github.com/jerrykuku/luci-app-vssr.git

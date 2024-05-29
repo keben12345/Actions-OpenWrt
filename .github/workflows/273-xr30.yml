@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build 273-rax3000m
+name: Build 273-xr30
 
 on:
   repository_dispatch:

@@ -20,4 +20,4 @@
 #echo 'src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2.git' >>feeds.conf.default
 #echo 'src-git NueXini_Packages https://github.com/NueXini/NueXini_Packages.git' >> feeds.conf.default
 #echo 'src-git bypass https://github.com/kiddin9/openwrt-bypass' >>feeds.conf.default
-#echo 'src-git mosdns https://github.com/sbwml/luci-app-mosdns -b v5' >>feeds.conf.default
+echo 'src-git mosdns https://github.com/sbwml/luci-app-mosdns -b v5' >>feeds.conf.default

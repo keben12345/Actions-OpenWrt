@@ -9,7 +9,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build 273-xr30
+name: Build NekokeCore-xr30
 
 on:
   repository_dispatch:
